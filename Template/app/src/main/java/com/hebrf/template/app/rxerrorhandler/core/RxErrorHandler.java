@@ -24,6 +24,9 @@ public class RxErrorHandler {public final String TAG = this.getClass().getSimple
         return mHandlerFactory;
     }
 
+    /**
+     * RxErrorHandler的构建
+     */
     public static final class Builder {
         private Context context;
         private ResponseErroListener responseErroListener;
