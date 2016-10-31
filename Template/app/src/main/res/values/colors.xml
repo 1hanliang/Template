@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--常用颜色-->
+    <color name="white">#FFFfff</color>
+    <color name="black">#030303</color>
+    <color name="green">#00FF00 </color>
+    <color name="blue">#0000FF</color>
+    <color name="grey">#BEBEBE</color>
+    <color name="red"> #FF0000</color>
+
+    <!--MD色调-->
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!--基础颜色-->
+    <color name="transparent">#00000000</color>
+    
+    <!-- 下拉刷新的小圈圈的1-4次的颜色 -->
+    <color name="swipe_refresh_first">#ff00ddff</color>
+    <color name="swipe_refresh_second">#ffffbb33</color>
+    <color name="swipe_refresh_third">#ffff4444</color>
+    <color name="swipe_refresh_four">#ffaa66cc</color>
+
+
 </resources>

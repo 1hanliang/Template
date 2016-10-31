@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <!--妹的的累死小爷了,写个属性真他妈的麻烦,但是想想以后能开发规范些,妹的忍了 ╮(╯_╰)╭ -->
+    <!--虽然属性很多,但是都是一个尿性:1.字体颜色;2.背景颜色;3.背景图片;-->
+
     <declare-styleable name="AutoTabLayout">
         <attr name="auto_textSize_base_width" format="boolean"></attr>
     </declare-styleable>
+    <!--================== ===================-->
+    <!--==================登陆界面需要的属性===================-->
+    <attr name="login_background" format="color"/>
+    <attr name="login_form_username" format="color"/>
+    <attr name="login_form_password" format="color"/>
+    <attr name="login_form_hint" format="color"/>
+    <attr name="login_form_error" format="color"/>
+    <attr name="login_text" format="color"/>
+
+    <!--================== tab条需要的属性===================-->
+    <attr name="tab_item_selected" format="reference|color"/>
+    <attr name="tab_item_unselected" format="reference|color"/>
+    <attr name="tab_item_underline" format="reference|color"/>
+
+    <!--==================通用listView需要的属性 ===================-->
+    <attr name="list_view_background" format="reference|color"/>
+
+    <!--================== 对话框需要的属性===================-->
+    <attr name="dialog_background" format="color"/>
+    <attr name="dialog_opinion_background" format="reference"/>
+    <attr name="dialog_text" format="color"/>
+
+    <!--================== ===================-->
+
+
+
+
+
+
 </resources>
