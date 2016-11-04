@@ -1,4 +1,4 @@
-package com.hebrf.template.uitils;
+package com.hebrf.template.utils;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -7,8 +7,6 @@ import android.graphics.Paint;
 import android.graphics.drawable.BitmapDrawable;
 import android.util.Log;
 import android.view.View;
-
-import com.yqritc.recyclerviewflexibledivider.FlexibleDividerDecoration;
 
 /**
  * Created by Administrator on 2016/10/26.

@@ -1,4 +1,4 @@
-package com.hebrf.template.uitils;
+package com.hebrf.template.utils;
 
 import android.graphics.Bitmap;
 import android.graphics.Matrix;

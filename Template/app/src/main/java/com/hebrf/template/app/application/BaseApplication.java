@@ -22,7 +22,8 @@ import timber.log.Timber;
  * Created by Administrator on 2016/10/24.
  * 本项目由mvp+dagger2+retrofit+rxjava+androideventbus+butterknife组成
  *
- * (上次说到爱因斯坦的相对论了,直接上图,无图无真相,没图不bb)
+ * (上次说到爱因斯坦的相对论了,直接上图,无图无真相,没图不bb,开车喽)
+ *
  *                  *   *   *  *
  *                             * **  **
  *                                      **

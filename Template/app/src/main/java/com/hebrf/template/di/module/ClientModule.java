@@ -6,7 +6,7 @@ import com.hebrf.template.app.rxerrorhandler.core.RxErrorHandler;
 import com.hebrf.template.app.rxerrorhandler.handererror.ResponseErroListener;
 import com.hebrf.template.http.GlobeHttpHandler;
 import com.hebrf.template.http.RequestIntercept;
-import com.hebrf.template.uitils.DataHelper;
+import com.hebrf.template.utils.DataHelper;
 import com.tbruyelle.rxpermissions.RxPermissions;
 
 import java.io.File;

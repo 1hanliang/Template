@@ -16,7 +16,7 @@ import com.hebrf.template.di.commponent.DaggerUserComponent;
 import com.hebrf.template.di.module.UserModule;
 import com.hebrf.template.mvp.persenter.presenterbase.UserPresenter;
 import com.hebrf.template.mvp.ui.adapter.DefaultAdapter;
-import com.hebrf.template.uitils.UiUtils;
+import com.hebrf.template.utils.UiUtils;
 import com.paginate.Paginate;
 
 import butterknife.Bind;

@@ -35,5 +35,6 @@ public class UserModule {
     UserContract.Model provideUserModel(ServiceManager serviceManager, CacheManager cacheManager){
         return new UserModel(serviceManager,cacheManager);
     }
+
 }
 

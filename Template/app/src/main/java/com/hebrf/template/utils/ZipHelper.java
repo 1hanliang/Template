@@ -1,4 +1,4 @@
-package com.hebrf.template.uitils;
+package com.hebrf.template.utils;
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

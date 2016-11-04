@@ -9,7 +9,7 @@ import com.hebrf.template.mvp.model.entity.User;
 import com.hebrf.template.mvp.ui.activity.BaseActivity;
 import com.hebrf.template.mvp.ui.adapter.DefaultAdapter;
 import com.hebrf.template.mvp.ui.adapter.UserAdapter;
-import com.hebrf.template.uitils.PermissionUtil;
+import com.hebrf.template.utils.PermissionUtil;
 import com.tbruyelle.rxpermissions.RxPermissions;
 
 import java.util.ArrayList;

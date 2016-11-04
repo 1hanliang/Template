@@ -10,7 +10,7 @@ import com.hebrf.template.di.module.CacheModule;
 import com.hebrf.template.di.module.ServiceModule;
 import com.hebrf.template.http.GlobeHttpHandler;
 import com.hebrf.template.mvp.model.api.Api;
-import com.hebrf.template.uitils.UiUtils;
+import com.hebrf.template.utils.UiUtils;
 import com.squareup.leakcanary.LeakCanary;
 
 import org.json.JSONArray;
@@ -20,7 +20,6 @@ import org.json.JSONObject;
 import okhttp3.Interceptor;
 import okhttp3.Request;
 import okhttp3.Response;
-import timber.log.BuildConfig;
 import timber.log.Timber;
 
 /**

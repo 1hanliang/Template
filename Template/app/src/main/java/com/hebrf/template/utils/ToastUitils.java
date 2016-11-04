@@ -1,4 +1,4 @@
-package com.hebrf.template.uitils;
+package com.hebrf.template.utils;
 
 import android.content.Context;
 import android.view.ViewGroup;

@@ -10,7 +10,7 @@ import org.simple.eventbus.EventBus;
 import rx.Subscription;
 
 /**
- * Created by Administrator on 2016/10/24.
+ * Created by LYB on 2016/10/24.
  */
 public abstract class BaseService extends Service {
     protected final String TAG = this.getClass().getSimpleName();

@@ -1,4 +1,4 @@
-package com.hebrf.template.uitils;
+package com.hebrf.template.utils;
 
 import android.app.Activity;
 import android.content.Context;
@@ -405,6 +405,20 @@ public class UiUtils {
         activity.getWindow().setAttributes(attrs);
         activity.getWindow().addFlags(WindowManager.LayoutParams.FLAG_LAYOUT_IN_SCREEN);
         activity.getWindow().addFlags(WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS);
+    }
+    private static final int DELAY = 1000;
+    private static long lastClickTime = 0;
+    /**
+     * 判断是否是快速点击事件
+     */
+    public static boolean isNotFastClick() {
+        long currentTime = System.currentTimeMillis();
+        if (currentTime - lastClickTime > DELAY) {
+            lastClickTime = currentTime;
+            return true;
+        } else {
+            return false;
+        }
     }
 
 

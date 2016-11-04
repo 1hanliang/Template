@@ -3,7 +3,7 @@ package com.hebrf.template.mvp.ui.holder;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
-import com.hebrf.template.uitils.KnifeUtil;
+import com.hebrf.template.utils.KnifeUtil;
 import com.zhy.autolayout.utils.AutoUtils;
 
 import org.simple.eventbus.EventBus;

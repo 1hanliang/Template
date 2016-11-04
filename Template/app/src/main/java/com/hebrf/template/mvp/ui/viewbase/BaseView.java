@@ -3,7 +3,7 @@ package com.hebrf.template.mvp.ui.viewbase;
 import android.content.Intent;
 
 /**
- * Created by Administrator on 2016/10/24.
+ * Created by LYB on 2016/10/24.
  */
 public interface BaseView {
 

@@ -1,7 +1,7 @@
 package com.hebrf.template.http;
 
 
-import com.hebrf.template.uitils.ZipHelper;
+import com.hebrf.template.utils.ZipHelper;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
