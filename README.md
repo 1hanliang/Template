@@ -14,4 +14,4 @@
 - ui库,主要负责界面的展示效果(非常多的md设计风格的呦)
 - 其他,更多惊喜需要你探索呦
 
-![app模版架构图.jpg](C:\Users\Administrator\Desktop\app模版架构图.jpg)
+
